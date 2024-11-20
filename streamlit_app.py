@@ -7,7 +7,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn import preprocessing
 
 df = pd.read_csv(
-    r"C:\Users\Ashwanth Narlapally\Desktop\obesity classification\ObesityDataSet_raw_and_data_sinthetic.csv")
+    r"https://github.com/pymche/Machine-Learning-Obesity-Classification/blob/master/ObesityDataSet_raw_and_data_sinthetic.csv")
 st.title("Fit Buddy")
 
 st.header("Eat healthy , Stay Fit , Live Long")
