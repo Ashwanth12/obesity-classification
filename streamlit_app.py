@@ -6,8 +6,8 @@ from sklearn.metrics import accuracy_score
 from sklearn.tree import DecisionTreeClassifier
 from sklearn import preprocessing
 
-df = pd.read_csv(
-    r"https://github.com/pymche/Machine-Learning-Obesity-Classification/blob/master/ObesityDataSet_raw_and_data_sinthetic.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/pymche/Machine-Learning-Obesity-Classification/master/ObesityDataSet_raw_and_data_sinthetic.csv")
+
 st.title("Fit Buddy")
 
 st.header("Eat healthy , Stay Fit , Live Long")
