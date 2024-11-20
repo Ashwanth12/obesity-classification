@@ -20,6 +20,7 @@ To use the project, users can clone the repository, set up the environment, expl
 ## Further Reading
 
 This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1: 
+- Resource 1: Streamlit Documentation: Streamlit is a powerful tool for building machine learning apps with minimal code. Check out the official documentation for more advanced features.
+  Streamlit Docs:https://docs.streamlit.io/
 - Resource 2:Dataset link:https://www.kaggle.com/datasets/fatemehmehrparvar/obesity-levels
-- Resource 3:
+
