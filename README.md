@@ -1,9 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦obesity-classification
 
-Description of the app ...
+Diet and Exercise Suggestion Based on Obesity Classification
 
 ## Demo App
 
